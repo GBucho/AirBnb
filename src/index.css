@@ -1,0 +1,22 @@
+body {
+  width: 500px;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.gray {
+  color: #918e9b;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 0.6rem;
+  font-weight: normal;
+}
+
+section {
+  padding: 20px;
+}
